@@ -7,3 +7,4 @@ optimize images
 fix crash on load
 optimize database call
 fix alignment issue
+fix broken link
