@@ -4,3 +4,4 @@ optimize query
 update dependencies
 fix API error
 optimize images
+fix crash on load
