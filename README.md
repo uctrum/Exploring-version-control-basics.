@@ -3,3 +3,4 @@ fix login bug
 optimize query
 update dependencies
 fix API error
+optimize images
