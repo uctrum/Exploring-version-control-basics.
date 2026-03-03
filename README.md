@@ -9,3 +9,4 @@ optimize database call
 fix alignment issue
 fix broken link
 fix validation error
+improve responsiveness
