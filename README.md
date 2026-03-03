@@ -17,3 +17,4 @@ fix scroll problem
 fix API timeout
 fix state bug
 fix hover effect
+fix image loading
