@@ -16,3 +16,4 @@ fix submit issue
 fix scroll problem
 fix API timeout
 fix state bug
+fix hover effect
