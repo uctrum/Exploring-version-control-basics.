@@ -15,3 +15,4 @@ fix dropdown bug
 fix submit issue
 fix scroll problem
 fix API timeout
+fix state bug
