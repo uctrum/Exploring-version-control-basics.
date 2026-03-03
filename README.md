@@ -12,3 +12,4 @@ fix validation error
 improve responsiveness
 fix modal display
 fix dropdown bug
+fix submit issue
