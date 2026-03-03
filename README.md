@@ -11,3 +11,4 @@ fix broken link
 fix validation error
 improve responsiveness
 fix modal display
+fix dropdown bug
