@@ -18,3 +18,6 @@ fix API timeout
 fix state bug
 fix hover effect
 fix image loading
+fix typo in form
+fix layout shift
+fix build warning
