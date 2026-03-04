@@ -22,3 +22,4 @@ fix typo in form
 fix layout shift
 fix build warning
 fix auth redirect
+fix notification bug
