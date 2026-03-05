@@ -35,3 +35,4 @@ fix navbar bug
 fix state reset
 fix 404 error
 fix link redirect
+fix logout issue
