@@ -42,3 +42,4 @@ fix broken icon
 fix validation rule
 fix dropdown close
 fix animation lag
+fix image path
