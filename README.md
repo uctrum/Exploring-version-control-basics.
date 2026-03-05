@@ -30,3 +30,4 @@ fix mobile menu
 fix token refresh
 fix scroll glitch
 fix CORS issue
+fix memory leak
