@@ -34,3 +34,4 @@ fix memory leak
 fix navbar bug
 fix state reset
 fix 404 error
+fix link redirect
