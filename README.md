@@ -40,3 +40,4 @@ fix overflow issue
 fix API mismatch
 fix broken icon
 fix validation rule
+fix dropdown close
