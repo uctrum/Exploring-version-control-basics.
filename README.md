@@ -32,3 +32,4 @@ fix scroll glitch
 fix CORS issue
 fix memory leak
 fix navbar bug
+fix state reset
