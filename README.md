@@ -43,3 +43,4 @@ fix validation rule
 fix dropdown close
 fix animation lag
 fix image path
+fix input lag
