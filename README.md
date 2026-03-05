@@ -38,3 +38,4 @@ fix link redirect
 fix logout issue
 fix overflow issue
 fix API mismatch
+fix broken icon
