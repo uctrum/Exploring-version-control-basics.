@@ -50,3 +50,4 @@ fix data race
 fix form crash
 fix edge case bug
 Learning about RPC endpoints.
+Exploring wallet security practices.
