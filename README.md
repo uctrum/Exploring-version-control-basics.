@@ -51,3 +51,4 @@ fix form crash
 fix edge case bug
 Learning about RPC endpoints.
 Exploring wallet security practices.
+Learning about CI/CD concepts.
