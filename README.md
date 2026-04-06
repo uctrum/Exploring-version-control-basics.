@@ -53,3 +53,4 @@ Learning about RPC endpoints.
 Exploring wallet security practices.
 Learning about CI/CD concepts.
 Researching blockchain use cases.
+Improving repository readability.
