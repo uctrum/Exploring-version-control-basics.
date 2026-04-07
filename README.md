@@ -54,3 +54,4 @@ Exploring wallet security practices.
 Learning about CI/CD concepts.
 Researching blockchain use cases.
 Improving repository readability.
+Learning about network nodes.
