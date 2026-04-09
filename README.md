@@ -56,3 +56,4 @@ Researching blockchain use cases.
 Improving repository readability.
 Learning about network nodes.
 Tracking weekly progress summary.
+Reviewing project long-term vision.
