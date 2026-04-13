@@ -58,3 +58,4 @@ Learning about network nodes.
 Tracking weekly progress summary.
 Reviewing project long-term vision.
 Reviewing debugging strategies.
+Expanding my knowledge in blockchain architecture.
