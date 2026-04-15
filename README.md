@@ -60,3 +60,4 @@ Reviewing project long-term vision.
 Reviewing debugging strategies.
 Expanding my knowledge in blockchain architecture.
 Studying blockchain data structures.
+Studying inflationary vs deflationary tokens.
