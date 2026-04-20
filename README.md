@@ -63,3 +63,4 @@ Studying blockchain data structures.
 Studying inflationary vs deflationary tokens.
 Studying reentrancy attack patterns.
 Learning about zero knowledge proofs basics.
+Studying validator node operations.
