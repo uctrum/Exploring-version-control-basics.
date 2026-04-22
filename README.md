@@ -65,3 +65,4 @@ Studying reentrancy attack patterns.
 Learning about zero knowledge proofs basics.
 Studying validator node operations.
 Exploring security audit case studies.
+Learning about liquidity pools basics.
