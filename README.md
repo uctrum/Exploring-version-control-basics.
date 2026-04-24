@@ -67,3 +67,4 @@ Studying validator node operations.
 Exploring security audit case studies.
 Learning about liquidity pools basics.
 Learning about snapshot voting systems.
+Learning about node synchronization process.
