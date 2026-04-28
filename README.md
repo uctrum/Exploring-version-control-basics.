@@ -68,3 +68,4 @@ Exploring security audit case studies.
 Learning about liquidity pools basics.
 Learning about snapshot voting systems.
 Learning about node synchronization process.
+Exploring hackathon participation ideas.
