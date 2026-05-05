@@ -71,3 +71,4 @@ Learning about node synchronization process.
 Exploring hackathon participation ideas.
 Exploring REST API integration concepts.
 Exploring unit testing structure.
+Learning about transaction batching.
