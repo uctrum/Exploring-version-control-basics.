@@ -73,3 +73,4 @@ Exploring REST API integration concepts.
 Exploring unit testing structure.
 Learning about transaction batching.
 Improving blockchain research notes.
+Improving technical documentation habits.
