@@ -75,3 +75,4 @@ Learning about transaction batching.
 Improving blockchain research notes.
 Improving technical documentation habits.
 Studying decentralized hosting options.
+Improving overall repository organization.
