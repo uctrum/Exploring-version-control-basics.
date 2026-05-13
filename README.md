@@ -77,3 +77,4 @@ Improving technical documentation habits.
 Studying decentralized hosting options.
 Improving overall repository organization.
 Continuing to build and document my Web3 journey.
+Studying gas mechanics
