@@ -80,3 +80,4 @@ Continuing to build and document my Web3 journey.
 Studying gas mechanics
 Reviewing staking models
 Studying audits
+Studying token models
