@@ -81,3 +81,4 @@ Studying gas mechanics
 Reviewing staking models
 Studying audits
 Studying token models
+Reviewing governance tokens
