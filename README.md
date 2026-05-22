@@ -84,3 +84,4 @@ Studying token models
 Reviewing governance tokens
 Reviewing wallet connectors
 Reviewing validator rewards
+Reviewing consensus models
