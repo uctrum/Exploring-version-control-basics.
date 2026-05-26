@@ -87,3 +87,4 @@ Reviewing validator rewards
 Reviewing consensus models
 
 Understanding commits
+Improving headings
