@@ -1,92 +1,92 @@
 # Exploring-version-control-basics.
-fix login bug
-optimize query
-update dependencies
-fix API error
-optimize images
-fix crash on load
-optimize database call
-fix alignment issue
-fix broken link
-fix validation error
-improve responsiveness
-fix modal display
-fix dropdown bug
-fix submit issue
-fix scroll problem
-fix API timeout
-fix state bug
-fix hover effect
-fix image loading
-fix typo in form
-fix layout shift
-fix build warning
-fix auth redirect
-fix notification bug
-fix pagination issue
-fix cache issue
-fix API response
-fix mobile menu
-fix token refresh
-fix scroll glitch
-fix CORS issue
-fix memory leak
-fix navbar bug
-fix state reset
-fix 404 error
-fix link redirect
-fix logout issue
-fix overflow issue
-fix API mismatch
-fix broken icon
-fix validation rule
-fix dropdown close
-fix animation lag
-fix image path
-fix input lag
-fix null pointer
-fix route mismatch
-fix data race
-fix form crash
-fix edge case bug
-Learning about RPC endpoints.
-Exploring wallet security practices.
-Learning about CI/CD concepts.
-Researching blockchain use cases.
-Improving repository readability.
-Learning about network nodes.
-Tracking weekly progress summary.
-Reviewing project long-term vision.
-Reviewing debugging strategies.
-Expanding my knowledge in blockchain architecture.
-Studying blockchain data structures.
-Studying inflationary vs deflationary tokens.
-Studying reentrancy attack patterns.
-Learning about zero knowledge proofs basics.
-Studying validator node operations.
-Exploring security audit case studies.
-Learning about liquidity pools basics.
-Learning about snapshot voting systems.
-Learning about node synchronization process.
-Exploring hackathon participation ideas.
-Exploring REST API integration concepts.
-Exploring unit testing structure.
-Learning about transaction batching.
-Improving blockchain research notes.
-Improving technical documentation habits.
-Studying decentralized hosting options.
-Improving overall repository organization.
-Continuing to build and document my Web3 journey.
-Studying gas mechanics
-Reviewing staking models
-Studying audits
-Studying token models
-Reviewing governance tokens
-Reviewing wallet connectors
-Reviewing validator rewards
-Reviewing consensus models
-
-Understanding commits
-Improving headings
-Tracking Web3 tools
-Updating roadmap
+- fix login bug
+- optimize query
+- update dependencies
+- fix API error
+- optimize images
+- fix crash on load
+- optimize database call
+- fix alignment issue
+- fix broken link
+- fix validation error
+- improve responsiveness
+- fix modal display
+- fix dropdown bug
+- fix submit issue
+- fix scroll problem
+- fix API timeout
+- fix state bug
+- fix hover effect
+- fix image loading
+- fix typo in form
+- fix layout shift
+- fix build warning
+- fix auth redirect
+- fix notification bug
+- fix pagination issue
+- fix cache issue
+- fix API response
+- fix mobile menu
+- fix token refresh
+- fix scroll glitch
+- fix CORS issue
+- fix memory leak
+- fix navbar bug
+- fix state reset
+- fix 404 error
+- fix link redirect
+- fix logout issue
+- fix overflow issue
+- fix API mismatch
+- fix broken icon
+- fix validation rule
+- fix dropdown close
+- fix animation lag
+- fix image path
+- fix input lag
+- fix null pointer
+- fix route mismatch
+- fix data race
+- fix form crash
+- fix edge case bug
+- Learning about RPC endpoints.
+- Exploring wallet security practices.
+- Learning about CI/CD concepts.
+- Researching blockchain use cases.
+- Improving repository readability.
+- Learning about network nodes.
+- Tracking weekly progress summary.
+- Reviewing project long-term vision.
+- Reviewing debugging strategies.
+- Expanding my knowledge in blockchain architecture.
+- Studying blockchain data structures.
+- Studying inflationary vs deflationary tokens.
+- Studying reentrancy attack patterns.
+- Learning about zero knowledge proofs basics.
+- Studying validator node operations.
+- Exploring security audit case studies.
+- Learning about liquidity pools basics.
+- Learning about snapshot voting systems.
+- Learning about node synchronization process.
+- Exploring hackathon participation ideas.
+- Exploring REST API integration concepts.
+- Exploring unit testing structure.
+- Learning about transaction batching.
+- Improving blockchain research notes.
+- Improving technical documentation habits.
+- Studying decentralized hosting options.
+- Improving overall repository organization.
+- Continuing to build and document my Web3 journey.
+- Studying gas mechanics
+- Reviewing staking models
+- Studying audits
+- Studying token models
+- Reviewing governance tokens
+- Reviewing wallet connectors
+- Reviewing validator rewards
+- Reviewing consensus models
+- Understanding commits
+- Improving headings
+- Tracking Web3 tools
+- Updating roadmap
+- Updating structure
