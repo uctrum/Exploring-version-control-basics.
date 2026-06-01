@@ -90,3 +90,4 @@
 - Tracking Web3 tools
 - Updating roadmap
 - Updating structure
+- Reviewing audits
