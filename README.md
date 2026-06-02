@@ -91,3 +91,4 @@
 - Updating roadmap
 - Updating structure
 - Reviewing audits
+- Reviewing zk rollups
