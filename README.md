@@ -92,3 +92,4 @@
 - Updating structure
 - Reviewing audits
 - Reviewing zk rollups
+- Reviewing staking rewards
