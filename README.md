@@ -93,3 +93,4 @@
 - Reviewing audits
 - Reviewing zk rollups
 - Reviewing staking rewards
+- Studying zk proofs
