@@ -94,3 +94,4 @@
 - Reviewing zk rollups
 - Reviewing staking rewards
 - Studying zk proofs
+- Studying RPC endpoints
