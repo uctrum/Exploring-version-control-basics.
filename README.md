@@ -96,3 +96,4 @@
 - Studying zk proofs
 - Studying RPC endpoints
 - Enhancing notes
+- Adding updates
