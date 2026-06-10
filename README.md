@@ -97,3 +97,4 @@
 - Studying RPC endpoints
 - Enhancing notes
 - Adding updates
+- Improving clarity
