@@ -99,3 +99,4 @@
 - Adding updates
 - Improving clarity
 - Refining notes
+- Improving formatting
