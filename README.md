@@ -100,3 +100,4 @@
 - Improving clarity
 - Refining notes
 - Improving formatting
+- Learning how commits work in public repositories.
