@@ -101,3 +101,4 @@
 - Refining notes
 - Improving formatting
 - Learning how commits work in public repositories.
+- Learning about smart contracts.
