@@ -103,3 +103,4 @@
 - Learning how commits work in public repositories.
 - Learning about smart contracts.
 - Exploring blockchain fundamentals.
+- Studying smart contract security basics.
