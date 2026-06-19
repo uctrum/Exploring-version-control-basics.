@@ -104,3 +104,4 @@
 - Learning about smart contracts.
 - Exploring blockchain fundamentals.
 - Studying smart contract security basics.
+- Understanding wallet integrations.
