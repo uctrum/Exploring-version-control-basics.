@@ -105,3 +105,4 @@
 - Exploring blockchain fundamentals.
 - Studying smart contract security basics.
 - Understanding wallet integrations.
+- Improving file structure planning.
