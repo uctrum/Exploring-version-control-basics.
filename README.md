@@ -107,3 +107,4 @@
 - Understanding wallet integrations.
 - Improving file structure planning.
 - Understanding blockchain explorers.
+- Exploring GitHub Actions basics.
