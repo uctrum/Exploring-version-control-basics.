@@ -110,3 +110,4 @@
 - Exploring GitHub Actions basics.
 - Exploring staking concepts.
 - Improving documentation formatting again.
+- Studying smart contract testing basics.
